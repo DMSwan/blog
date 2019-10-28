@@ -83,7 +83,8 @@ date_format = "Jan 2006"
   date_start = "2012-08-15"
   date_end = "2017-05-31"
   description = """
-  Topics Include:
+  Topics Included:
+  
   * Introductory Statistics including levels of measurement, introductory probability, hypothesis testing, t-test, chi-square, tests of proportions, simple regression. 
   * Other statistical methods such as ANOVA, ANCOVA/ATI, multiple regression, SEM (e.g. path analysis, CFA, multiple group models, invariance models, and latent growth modeling), generalized linear models (e.g. logistic regression, Poisson regression). 
   * Use of software packages including SPSS, MPLUS, and R, especially advanced programming in R. 
