@@ -26,7 +26,7 @@ name: Daniel M. Swan
 organizations:
 - name: University of Oregon
   url: ""
-role: Postdoctoral Scholar, Applied Research and Methods Lab
+role: Postdoctoral Scholar, [Applied Research Methods and Statistics Lab](https://appliedstats.uoregon.edu/)
 social:
 - icon: envelope
   icon_pack: fas
