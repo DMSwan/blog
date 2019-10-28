@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James E Pustejovsky | Danny</title>
+    <link>/authors/james-e-pustejovsky/</link>
+      <atom:link href="/authors/james-e-pustejovsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>James E Pustejovsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>James E Pustejovsky</title>
+      <link>/authors/james-e-pustejovsky/</link>
+    </image>
+    
+    <item>
+      <title>An examination of measurement procedures and characteristics of baseline outcome data in single-case research</title>
+      <link>/publication/pustejovsky-2019-examination/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pustejovsky-2019-examination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A gradual effects model for single-case designs</title>
+      <link>/publication/swan-2018-gradual/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/swan-2018-gradual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four methods for analyzing partial interval recording data, with application to single-case research</title>
+      <link>/publication/pustejovsky-2015-four/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pustejovsky-2015-four/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

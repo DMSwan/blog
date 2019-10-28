@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danny</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Danny</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>An examination of measurement procedures and characteristics of baseline outcome data in single-case research</title>
+      <link>/publication/pustejovsky-2019-examination/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pustejovsky-2019-examination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gem_scd shiny app</title>
+      <link>/project/internal-project/gem-scd-shiny-app/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/gem-scd-shiny-app/</guid>
+      <description>&lt;p&gt;NOTE: This post is quite old, and from a previous version of my website. You can find the published version of this article &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00273171.2018.1466681&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a paper under submission with James E. Pustejovsky titled &amp;ldquo;A gradual effects model for single-case designs&amp;rdquo; (preprint &lt;a href=&#34;https://psyarxiv.com/vh964/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). The paper proposes a particular form of nonlinear parametric model for single-case designs that offers some flexibility in functional form and error distribution that many of the other parametric models for single-case designs don&amp;rsquo;t. However, one tricky part of it is that there&amp;rsquo;s not a straightforward way to estimate the particular form of the linear predictor we specify for our proposed model using any of the typical modeling packages in R. To estimate the model we profile the likelihood (or quasi-likelihood), and I wrote functions in R to do that. Those functions can be found in the &lt;a href=&#34;https://github.com/jepusto/SingleCaseES&#34; target=&#34;_blank&#34;&gt;SingleCaseES package&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even then, it&amp;rsquo;s a worry that applied practitioners might not want to use R functions. Chances are good that single-case researchers have never touched R in their life, and even with step by step instructions they may go out of their way to avoid it. &lt;a href=&#34;https://jepusto.shinyapps.io/gem-scd/&#34; target=&#34;_blank&#34;&gt;So I built a calculator (with some design guidance from James)&lt;/a&gt;. Note: James has a very limited data budget on his shinyapps account so by the mid-to-end of the month the website might not be available. If you want to see it, the following code in R should open it up:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;devtools&amp;quot;)
+install.packages(&amp;quot;sourcetools&amp;quot;)
+install.packages(&amp;quot;shiny&amp;quot;)
+install.packages(&amp;quot;markdown&amp;quot;)
+install.packages(&amp;quot;ggplot2&amp;quot;)
+install.packages(&amp;quot;dplyr&amp;quot;)
+install.packages(&amp;quot;purrrlyr&amp;quot;)
+devtools::install_github(&amp;quot;jepusto/SingleCaseES&amp;quot;)
+library(SingleCaseES)
+shine_gem_scd()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The app has self-contained instructions, a calculator for estimating the model for a single data series, as well as a batch calculator for estimating the model for a dataset containing multiple series.&lt;/p&gt;
+
+&lt;p&gt;If the paper is accepted for publication, I&amp;rsquo;ll probably write a slightly lengthier blog post/tutorial for its use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A gradual effects model for single-case designs</title>
+      <link>/publication/swan-2018-gradual/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/swan-2018-gradual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-case effect size calculator (Version 0.2) Web application</title>
+      <link>/publication/pustejovsky-2017-single/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pustejovsky-2017-single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four methods for analyzing partial interval recording data, with application to single-case research</title>
+      <link>/publication/pustejovsky-2015-four/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pustejovsky-2015-four/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
