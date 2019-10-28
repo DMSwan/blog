@@ -21,24 +21,6 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>gem_scd shiny app</title>
       <link>/project/internal-project/gem-scd-shiny-app/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
@@ -76,11 +58,12 @@ shine_gem_scd()
     </item>
     
     <item>
-      <title>Single-case effect size calculator (Version 0.2) Web application</title>
+      <title>Single-case effect size calculator web application</title>
       <link>/publication/pustejovsky-2017-single/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pustejovsky-2017-single/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.jepusto.com/software/singlecasees/&#34; target=&#34;_blank&#34;&gt;https://www.jepusto.com/software/singlecasees/&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
