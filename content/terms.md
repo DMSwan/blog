@@ -10,4 +10,4 @@ share: false
 title: Terms
 ---
 
-...
+Everything on this site is just like, my opinion, man. Take any free advice you may find in my posts or anywhere else on this site at your own risk.

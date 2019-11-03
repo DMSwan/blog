@@ -43,12 +43,10 @@ user_groups:
 - Visitors
 ---
 
-I am a methodologist interested in helping other scholars produce their best work.
+I am a methodologist interested in helping other scholars produce their best work. For applied education or social science researchers looking for help with their research design or statistical anlysis, [I provide methodological consulting.](consulting)
 
-For work, I am a post-doctoral scholar working for [Dr. Emily Tanner-Smith](https://education.uoregon.edu/people/faculty/etanners) at the University of Oregon, although I live and work remotely in Salisbury, MD. I provide support for evidence reviewer training for the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) for both in-person training sessions and the online group design training system. I also assist in the revision and refinement of the WWC's Standards and Procedures Handbooks.
+Although I live in Salisbury, Maryland, I have a remote post-doctoral scholar position working for [Dr. Emily Tanner-Smith](https://education.uoregon.edu/people/faculty/etanners) at the University of Oregon. I provide support for evidence reviewer training for the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) for both in-person training sessions and the online group design training system. I also assist in the revision and refinement of the WWC's Standards and Procedures Handbooks.
 
 Under the guidance of and in collaboration with [Dr. James E. Pustejovsky](http://jepusto.github.io/), I have worked on research involving single-case designs, the direct observation of behavior, meta-analysis, and generalized linear models. My dissertation, chaired by [Dr. S. Natasha Beretvas](https://education.utexas.edu/faculty/susan_beretvas) (never call Tasha by the name "Susan"!) and co-chaired by Dr. Pustejovsky involved examining the impact of response-guided designs on treatment effect estimates from single-case designs. In my work as a consultant for the College of Education's [research design and statistical analysis consulting unit](https://education.utexas.edu/research/about-smarter-consulting), I offered graduate students feedback and guidance on their research design and appropriate statistical analysis, tutored them on the use of statistical software, and help them to interpret their output. At least once a semester, I also provided a free, multi-day introductory workshop in using R.
-
-
 
 Anything contained herein is my own opinion and does not represent the University of Oregon, the What Works Clearinghouse, or anyone else.
