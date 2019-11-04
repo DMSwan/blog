@@ -10,4 +10,4 @@ share: false
 title: Terms
 ---
 
-Everything on this site is just like, my opinion, man. Take any free advice you may find in my posts or anywhere else on this site at your own risk.
+Everything on this site is my opinion and doesn't represent my employers or other institutions I'm invovled in. Take any free advice you may find in my posts or anywhere else on this site at your own risk.
