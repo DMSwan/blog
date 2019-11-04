@@ -37,28 +37,4 @@ My personal methodological research involves single-case designs (a particular f
 
 *	**Assist with statistical analysis.** For more advanced analyses, researchers are sometimes not comfortable performing them alone. I am happy to help researchers with every step in the analysis process, from cleaning their data, writing code/pointing and clicking on the right spots in software, troubleshooting difficulties in analysis the researchers began independently, all the way up to assisting in the interpretation of the results of an analysis.
 
-## Preparing for consultation
-
-**Our first session:** If you are interested in my consulting services, the first step is to schedule an introductory meeting. I need to understand the scope and context of your research in order to figure out how I can be of assistance. An introductory meeting typically takes about one hour and is free of charge. For our introductory meeting to be productive, it’s important to prepare carefully in advance. 
-
-The best way to prepare is to write down what you know about your project in a brief memo. I imagine this as roughly one page. This is not necessarily something you are going to give to me, it’s to help you organize your thoughts. In this memo, you should:
-
-*	Describe the research questions you are interested in. 
-*	Talk about the population of interest (e.g. first graders, students who speak English as their second language, LGBTQ teens, High School math students, depressed adults). 
-*	Describe the kinds of outcomes you want to measure. If you have a specific way of measuring them (such as a particular standardized test), bring the reference that describes the design of that measure. 
-*	Note particular statistical analyses you are interested in performing, and if there is a particular software you would like to use to do it. 
-*	Include other details that you think are important for a general understanding of your project.
-
-Be ready to talk about how much of this you were hoping we would work on collaboratively versus what you want me to work on and come back to you with. In a consulting session we typically sit together and work on analysis tasks together. Working collaboratively might take more time, but for many consulting projects you will be better prepared to write about the results and discuss them with your peers after collaborative sessions. You might also be better equipped to perform analyses for yourself in the future. I am also comfortable doing some discrete tasks alone and providing you with the results.
-
-## Next steps
-
-After our introductory meeting, if I believe I can be helpful on the project I will write a document describing how I understand the scope of the work, as well as my rate for the work. Once you have agreed to the scope of the work and the rate, we can get started. 
-
-So long as the work necessary to complete your project doesn’t substantially exceed the agreed-upon scope of work, my rate for the work will not change. If the direction of the project changes or the scope of the work changes substantially, I reserve the right to reassess my fees or my involvement in the project.
-
-## Rate
-
-My personal consulting rate starts at a **minimum** of $100 per hour, but can be higher for particularly difficult or unusual tasks. Our introductory consultation will be free of charge. All consultation fees are due at the end of any given consulting meeting. For discrete tasks that I perform outside of your presence, I will do my best to give you an accurate estimate of how long it will take, but it might take longer than anticipated. Please keep me aware of budget concerns/limitations you have. For especially lengthy tasks, I reserve the right to request half of the anticipated fee up-front.
-
 Consulting enquiries should be sent to [consulting@dmswan.com](mailto:consulting@dmswan.com).
