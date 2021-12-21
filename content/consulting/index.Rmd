@@ -21,7 +21,7 @@ Consulting enquiries should be sent to [consulting@dmswan.com](mailto:consulting
 
 ## General Experience. 
 
-For three years I worked at the University of Texas for the College of Education’s Research Support unit as a methodological consultant on research design and statistical analysis. I worked primarily with graduate students and occasionally assisted with faculty analyses. I have experience with offering quantitative methodological assistance at all stages of the research process. I am an advanced user in R and comfortable with MPLUS. I have also assisted researchers in performing analyses in SPSS and STATA (including complex models like multi-level models and structural equation modeling).
+For three years I worked at the University of Texas for the College of Education’s Research Support unit as a methodological consultant on research design and statistical analysis. I worked primarily with graduate students and occasionally assisted with faculty analyses. I have experience with offering quantitative methodological assistance at all stages of the research process. I typically work in R, although I have also assisted researchers in performing analyses in SPSS and STATA (including complex models like multi-level models and structural equation modeling).
 
 As a graduate student I have taken courses involving: multi-level models, structural equation modeling (various kinds of factor analysis and other latent models), item response theory, meta-analysis, causal inference (regression discontinuity designs, propensity score analyses, etc.), and generalized linear models in addition to the typical t-tests, chi squares, and regression analyses.
 

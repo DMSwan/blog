@@ -1,0 +1,29 @@
+---
+title: Response-guided designs
+author: Danny
+date: '2020-04-24'
+slug: response-guided-designs
+categories: ["single-case designs", "response-guided designs"]
+tags: []
+subtitle: ''
+summary: ''
+authors: ["Danny"]
+lastmod: '2020-04-24T11:26:27-04:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: bibliography.bib
+---
+
+Just last month, the [first journal article](https://www.tandfonline.com/doi/full/10.1080/17489539.2020.1739048) that comes out of my dissertation research was published in [Evidence-Based Communication Assessment and Intervention](https://www.tandfonline.com/loi/tebc20).
+
+It concerns response-guided designs, which are a set of practices used in single-case designs. A response-guided design is a design where the researcher or practitioner makes decisions about when to implement an intervention (or remove it, in a reversal design) by monitoring the pattern of data within and across phases. The researcher typically utilizes visual analysis in order to ensure that the data are stable. Stability of data are often data without excessive variability and that are not trending in the direction of the expected effect. Highly variable data or data that are trending in the therapuetic direction make it more difficult for visual analysts to draw causual inferences about the impact of an intervention.
+
+In the paper, we simulated some simple count baselines without any trend and then applied some simulated response-guided decision rules to those baselines in a Monte Carlo simulation. The biggest take-home is that we found that sample variability of those baselines was smaller than the variability of the processes that generated this data. This means that any analysis methods which depend upon the sample variability to estimate uncertainty (regression models) or to standardize an effect (standardized mean differences) are likely to have biases when applied to data which was gathered with response-guided methods.
+
+How biased? I'm not really sure. Our simulated response-guided algorithms are pretty crude, and probably (definitely) don't capture the full range of choices made by researchers using response-guided methods. It does seem pretty clear to me that any practitioner who is able to reliably differentiate between high- and low-variability baselines is probably artificially restricting variability. Whether or not this is a problem depends on the kind of conclusion or inference you're trying to draw. SCD researchers are generally interested in demonstrating a functional relation, which indicates that there is a socially valid or practically meaningful impact of the intervention on the outcome.
+
+However, there's now a number of researchers who are interested in coming behind the primary researchers and using their data in research synthesis. If you're going to meta-analyze SCD data, you should probably be aware that data from 
