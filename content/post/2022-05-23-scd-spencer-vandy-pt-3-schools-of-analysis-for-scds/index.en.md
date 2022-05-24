@@ -1,6 +1,6 @@
 ---
 title: 'Spencer SCD @ Vandy pt. 3: Schools of analysis for SCDs and relevant design choices'
-author: ''
+author: 'Danny Swan'
 date: '2022-05-23'
 slug: []
 categories: []
